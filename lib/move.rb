@@ -17,5 +17,5 @@ def move(position, index, token = "X")
   position[index] = token
 end
 
-
+def input_to_index(move)
   
